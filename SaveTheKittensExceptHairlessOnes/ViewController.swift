@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         var t: Double = 200
         var t2: Int = 10000
         var t3 = 10000
-        
+        var t4: Double = 1000
         // Do any additional setup after loading the view, typically from a nib.
     }
 
