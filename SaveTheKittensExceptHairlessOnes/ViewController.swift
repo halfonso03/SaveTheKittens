@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        var t: Double = 100
+        var t: Double = 200
         
         // Do any additional setup after loading the view, typically from a nib.
     }
